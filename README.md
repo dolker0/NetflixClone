@@ -18,6 +18,7 @@ You can view the live demo [here](https://your-demo-link.com).
 ![Netflix Clone Screenshot](images/s2.png) 
 ![Netflix Clone Screenshot](images/s3.png) 
 ![Netflix Clone Screenshot](images/s4.png) 
+![Netflix Clone Screenshot](images/s5.png) 
 
 ## 📦 Features
 
