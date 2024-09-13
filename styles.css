@@ -5,6 +5,27 @@
     align-items: center;
 }
 
+.disclaimer{
+    position: fixed;
+    z-index: 10;
+    background-color: rgb(170, 8, 8);
+    margin:  10rem 23rem;
+    padding: 3rem;
+    display: block;
+}
+.disclaimer h1{
+    margin-bottom: 1rem;
+}
+
+.disclaimer img{
+    height: 30px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 10px;
+    cursor: pointer;
+
+}
 body {
     background-color: black;
     color: white;
@@ -484,6 +505,9 @@ footer {
 }
 
 @media(max-width:1267px){
+    .disclaimer{
+        margin: 10rem 5rem;
+    }
     .card1-title{
         font-size: 2.5rem;
         font-weight: 700;
@@ -528,6 +552,9 @@ footer {
 }
 
 @media(max-width:950px){
+    .disclaimer{
+        margin: 5rem ;
+    }
     .card1-title{
         font-size: 2rem;
     }
@@ -588,6 +615,10 @@ footer {
 }
 
 @media(max-width:500px){
+    .disclaimer{
+        margin: 1rem;
+        z-index: 100;
+    }
     .footer-dropdown{
         width: 110px !important;
     }

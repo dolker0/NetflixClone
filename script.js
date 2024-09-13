@@ -1,3 +1,9 @@
+const disclaimerClose = document.querySelector(".disclaimer-close");
+const disclaimerBox = document.querySelector(".disclaimer");
+disclaimerClose.addEventListener("click" , ()=>{
+  disclaimerBox.style.display = "none";
+})
+
 let accordian = document.getElementsByClassName("FAQ__title");
 
 for (let i = 0; i < accordian.length; i++) {
