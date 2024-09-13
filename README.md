@@ -10,11 +10,11 @@ A simple **Netflix Clone** frontend built using **HTML**, **CSS**, and **JavaScr
 
 ## 🚀 Demo
 
-You can view the live demo [here](https://your-demo-link.com). <!-- Add your live demo link if available -->
+You can view the live demo [here](https://your-demo-link.com). 
 
 ## 📸 Screenshots
 
-![Netflix Clone Screenshot](screenshot.png) <!-- Replace with your screenshot link -->
+![Netflix Clone Screenshot](images/s1.jpg) 
 
 ## 📦 Features
 
@@ -63,7 +63,7 @@ netflix-clone/
 ├── styles/             
 │   ├── style.css       # Main CSS file
 ├── scripts/            
-│   ├── app.js          # Main JavaScript file
+│   ├── script.js       # Main JavaScript file
 ├── images/             # Images used in the project
 │   └── logo.png
 └── README.md           # This file
