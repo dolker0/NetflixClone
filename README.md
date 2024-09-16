@@ -10,7 +10,7 @@ A simple **Netflix Clone** frontend built using **HTML**, **CSS**, and **JavaScr
 
 ## 🚀 Demo
 
-You can view the live demo [here](https://your-demo-link.com). 
+You can view the live demo [here](https://dolkersonam.github.io/NetflixClone/). 
 
 ## 📸 Screenshots
 
