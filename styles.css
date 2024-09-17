@@ -626,7 +626,7 @@ footer {
         display: initial;
     }
     .netflix-logo{
-        width: 90px;
+        width: 42px;
     }
     .navbar{
         padding: 1rem ;
@@ -675,6 +675,9 @@ footer {
     }
     .FAQ__visible p{
         font-size: 1.1rem;
+    }
+    .FAQ__visible{
+        width: 79.5vw;
     }
     .footer-email{
         width: 100%;
